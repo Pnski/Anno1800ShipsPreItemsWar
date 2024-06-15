@@ -28,7 +28,7 @@
   <!--Ships-->
   <!--Sail-->
   <!--SOTL 3-->
-  <ModOp Type="merge" GUID='100440,102431' Path="/Values/ItemContainer">
+  <ModOp Type="merge" GUID='100440,102431,102419' Path="/Values/ItemContainer">
     <ItemContainer>
       <InitSocketItems>
         <Item>
@@ -65,7 +65,7 @@
   </ModOp>
   <!--monitor 2/frigatte/flagship-->
   <!--reddit:hit'n'run /speed/hp+selfheal-->
-  <ModOp Type="merge" GUID='100440,102431,720,100439,102429,101121' Path="/Values/ItemContainer">
+  <ModOp Type="merge" GUID='968,1537,720,100439,102429,101121,100437,102429,100443,102432,104017' Path="/Values/ItemContainer">
     <ItemContainer>
       <InitSocketItems>
         <Item>
